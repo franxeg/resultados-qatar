@@ -1,0 +1,59 @@
+body{
+    background-image: url(cancha.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+table, th, td{
+    color: #fff;
+    border: solid;
+    margin: 8px;
+    padding: 3px;
+}
+
+h6{
+    color: #fff;
+    font-size: large;
+    margin-bottom: 0;
+}
+
+.gr{
+    margin: 5px;
+    margin-bottom: 21px;
+    width: 90%;
+    height: auto;
+    background-color: brown;
+    border: solid;
+    text-align: center;
+}    
+
+.sec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img{
+    max-width: 100%;
+}
+.par{
+    color: #fff;
+    font-size: small;
+    max-width: 97%;
+    text-align: left;
+    padding: 5px;
+
+}
+
+.divres{
+    display: flex;
+    justify-content: space-between;
+    width: 96%;
+    border: solid;
+
+}
+.gr-al{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
